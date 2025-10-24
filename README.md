@@ -7,6 +7,7 @@ I'm a Data Science student specializing in architecting and leading end-to-end s
 ### 🚀 My Current Projects
 
 **1. SEDECYT Analytics (Project Lead & Data Engineer)**
+* **Repository:** [sedecyt_analytics_backend](https://github.com/AngelGTZ28/sedecyt_analytics_backend)
 * **Description:** A serverless web application I architected and am currently leading for a government entity (SEDECYT) to provide real-time economic data visualization.
 * **Tech Stack:** `Python`, `Flask`, `Pandas`, `GCP (Cloud Run)`, `Firebase`, `Supabase (Postgres)`, `Docker`.
 * **My Role:** I designed the full data pipeline, engineered the core data cleaning logic, and manage the project workflow for a team of three.
